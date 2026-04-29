@@ -1,9 +1,0 @@
-
-
-/////////////////////////////
-
-    > mkdir build
-    > cd build
-    > cmake ..
-    > cmake --build .
-    > wind> .\Debug\program.exe || linux$ ./Debug/program
