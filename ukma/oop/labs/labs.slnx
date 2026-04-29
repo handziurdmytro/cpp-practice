@@ -1,0 +1,13 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="01Handziur/01Handziur.vcxproj" Id="2b30a51e-a7f6-493c-80d9-aa2e2c3fede2" />
+  <Project Path="02Handziur/02Handziur.vcxproj" Id="1ea151d5-1168-41a3-928f-56b73d1b8b08" />
+  <Project Path="03Handziur/03Handziur.vcxproj" Id="06967675-5b0e-4c69-a1c3-b64bd9747ee3" />
+  <Project Path="04Handziur/04Handziur.vcxproj" Id="39dee0b5-2ab7-4f4e-9f7c-8df6b93e744e" />
+  <Project Path="05Handziur/05Handziur.vcxproj" Id="150678ea-a833-40e0-bc98-038bf974ed49" />
+  <Project Path="HandziurZalik/HandziurZalik.vcxproj" Id="5b9c2b46-fcb3-401b-a4ca-99e83c27c0ca" />
+  <Project Path="LiveCode/LiveCode.vcxproj" Id="153d1b19-9341-4cf3-a533-8f2245c41023" />
+</Solution>
